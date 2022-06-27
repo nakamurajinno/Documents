@@ -1,0 +1,24 @@
+■20220624進捗
+
+・中村
+　タブレイアウト作成済み　→　コミット済み
+
+・永田
+　テーブル作成中
+　来週は、タブレイアウトをチェックアウトし、テーブル実装する。
+　→　テーブル実装
+　　　テキストこれから実装、計算処理
+
+・足立
+　パイチャート作成サイト調査
+　★https://camposha.info/android-examples/ja/android-chart-libraries/#gsc.tab=0
+
+　https://pg.akihiro-takeda.com/android-mpandroidchart-graph/
+
+　https://qiita.com/c60evaporator/items/14e63d22d860b73e6f22
+　https://qiita.com/c60evaporator/items/b8f8c83dd3630c0091cf
+
+　https://somachob.com/android-mpandroidchart/
+
+　来週は、パイチャート（側だけでも）実装する。
+　→継続
